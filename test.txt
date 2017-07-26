@@ -1,2 +1,4 @@
 Hello World
 Hey, second row
+hello my friend
+hi
